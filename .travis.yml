@@ -12,7 +12,7 @@ deploy:
   provider: elasticbeanstalk
   region: "us-east-1"
   app: "may1"
-  env: "may1-env"
+  env: "may1-envv"
   bucket_name: "elasticbeanstalk-us-east-1-058264353440"
   bucket_path: "may1"
   on:
